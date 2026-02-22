@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Hemalatha 👋
 
-<!--
-**hemalathakd07/hemalathakd07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE AI-ML Student  
+💻 Java & DSA Learner  
+🌐 Web Development Enthusiast  
+🐍 Python Programmer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- C
+- C++
+- Python
+- Java
+- Frontend Development
+
+---
+
+## 📚 Currently Working On
+- Data Structures & Algorithms in Java
+- Building Mini Web Projects
+- Strengthening Problem Solving Skills
+
+---
+
+
+
+⭐ Consistency > Motivation
